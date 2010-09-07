@@ -1,0 +1,16 @@
+# The logbook file. Using this configuration you'll be able to setup your
+# project to use an external logbook file and maintain it (the file) over an
+# revision control system like svn, git, etc.
+logfile = '/home/cmdln/.logbook/tp/logbook.txt'
+
+# The logbook file. Using this configuration you'll be able to setup your
+# project to use an external logbook file and maintain it (the file) and all
+# the hooks over an revision control system like svn, git, etc.
+basedir = '/home/cmdln/.logbook/tp/'
+
+# Label of the project used in the logbook file. Useful to use a differente
+# project name, used in the command line, and the project label, used in the
+# logbook file.
+#label = ''
+
+show_time = False
