@@ -1,6 +1,10 @@
 tp (20100909) tp; urgency=low
 
+  [ Nick Anderson ]
   * 00:47 dkjass
+
+  [ cmdln ]
+  * 00:51 humm interesting
 
  -- Nick Anderson <nick@cmdln.org>  Thu, 09 Sep 2010 00:47:46 -0500
 
