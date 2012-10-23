@@ -29,5 +29,6 @@ cf_execd and are not policy hubs
 ```"/sbin/shutdown"
   handle => "main_commands_shutdown",
   args => "-h now",
-  comment => "Poweroff remote clients";```
+  comment => "Poweroff remote clients";
+```
 
