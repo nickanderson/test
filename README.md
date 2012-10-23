@@ -4,7 +4,6 @@ antitoxic/diem@2b4514646177a95951202c4aea388cf472b53ca1
 # Solutions - 01
 
 1. Can you find a promise that is activated on any agent?
-
   * The promise with handle `main_methods_firewall_open_cf_serverd` is
     classed to `any::`.
 
