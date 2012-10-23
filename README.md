@@ -26,9 +26,10 @@ policy hub?
 cf_execd and are not policy hubs
   * Add the following promise after `!am_policy_hub.from_cfexecd::`.
 
-```"/sbin/shutdown"
-  handle => "main_commands_shutdown",
-  args => "-h now",
-  comment => "Poweroff remote clients";
-```
+    ```
+    "/sbin/shutdown"
+      handle => "main_commands_shutdown",
+      args => "-h now",
+      comment => "Poweroff remote clients";
+    ```
 
