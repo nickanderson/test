@@ -36,10 +36,10 @@ any type by name. `find . -type f | xargs grep "bundle\s.*\sBUNDLENAME"`
     ./sketches/VCS/vcs_mirror/README.md:    bundle agent main {
     ./main.cf:bundle agent main
 
-Two matches found, one is in a README, the other is in main.cf. That seems like
-a good place to start looking.
+Two matches found, one is in `sketches/VCS/vcs_mirror/README.md`, the other is
+in `main.cf`. That seems like a good place to start looking.
 
-Read the policy in main.cf.
+Read the policy in `main.cf`.
 
 ## Exercises
 
