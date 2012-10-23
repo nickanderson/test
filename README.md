@@ -43,14 +43,14 @@ Read the policy in main.cf.
 
 ## Exercises
 
-#. Can you find a promise that is activated on any agent?
+1. Can you find a promise that is activated on any agent?
 
-#. Can you find a promise that is activated on agents that identify as a policy
-hub?
+2. Can you find a promise that is activated on agents that identify as a policy
+   hub?
 
-#. Can you find a promise that is activated on agents that do not identify as a
-policy hub? 
+3. Can you find a promise that is activated on agents that do not identify as a
+   policy hub? 
 
-#. Add a new promise to Shutdown/halt machines that execute the agent from
-cf_execd and are not policy hubs
+4. Add a new promise to Shutdown/halt machines that execute the agent from
+   cf_execd and are not policy hubs
 
